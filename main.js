@@ -1,2 +1,2 @@
 console.log("Hello World")
-let a = 'Nguyen Hieu'
+let a = 'Nguyen Hiu'
